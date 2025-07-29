@@ -1,5 +1,5 @@
 
-# 🧠 Plant and Weed Segmentation using U-Net and ResNet50
+# Plant and Weed Segmentation and Detection using U-Net and ResNet50
 
 This repository contains two approaches for performing semantic segmentation on plant and weed datasets:
 
